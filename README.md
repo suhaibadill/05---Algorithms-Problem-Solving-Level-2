@@ -1,6 +1,6 @@
 # Algorithms & Problem-Solving - Level 2
 
-This repository contains solutions to various problems from **Course 05 - Algorithms & Problem-Solving Level 2** on the **Programming Advices** platform.
+This repository contains solutions to various problems from **Course Algorithms & Problem-Solving Level 2** on the **Programming Advices** platform.
 
 ## Repository Contents
 - C++ files for each problem solved.
